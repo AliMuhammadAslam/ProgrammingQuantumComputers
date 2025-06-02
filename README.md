@@ -20,3 +20,6 @@ https://drive.google.com/drive/folders/1M1IPymfZkFuFfj4Ex3wtp2XNVa8F9JZp?usp=sha
 
 Milestone 2 (Notebook 3 and 4) - Video Link:
 https://drive.google.com/drive/folders/1omRDtaiRhHfvtLp3OsBKu9ZJFTA4tzfv?usp=sharing
+
+Milestone 3 (Final Project) - Video Link:
+https://drive.google.com/drive/folders/1nFgc3q60inM235z4ZJf0heGe3md2XbnO?usp=sharing
