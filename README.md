@@ -12,6 +12,9 @@ https://colab.research.google.com/drive/12wh7qirQH09m2yledAcI5T2nKmLvYnij?usp=sh
 Notebook 4 : Quantum Machine Learning - Google Collab Link:
 https://colab.research.google.com/drive/1hn5lQ7Re90hAwCtb3zQgradkQ8qJjy2u?usp=sharing
 
+Notebook 5 : Module Assessment - Google Collab Link:
+https://colab.research.google.com/drive/1joAbApY-7bt19mLGRD_bAtIOHFjotzG3?usp=sharing
+
 Milestone 1 (Notebook 1 and 2) - Video Link:
 https://drive.google.com/drive/folders/1M1IPymfZkFuFfj4Ex3wtp2XNVa8F9JZp?usp=sharing
 
